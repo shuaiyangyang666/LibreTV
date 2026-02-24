@@ -1,5 +1,5 @@
 // 全局常量配置  改成公共跨域代理地址（关键修改）
-const PROXY_URL = 'https://corsproxy.io/?';
+const PROXY_URL = 'https://api.allorigins.win/raw?url=';
 // const HOPLAYER_URL = 'https://hoplayer.com/index.html';
 const SEARCH_HISTORY_KEY = 'videoSearchHistory';
 const MAX_HISTORY_ITEMS = 5;
