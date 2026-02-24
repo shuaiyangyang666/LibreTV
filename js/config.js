@@ -1,5 +1,5 @@
-// 全局常量配置
-const PROXY_URL = '/proxy/';    // 适用于 Cloudflare, Netlify (带重写), Vercel (带重写)
+// 全局常量配置  改成公共跨域代理地址（关键修改）
+const PROXY_URL = 'https://corsproxy.io/?';
 // const HOPLAYER_URL = 'https://hoplayer.com/index.html';
 const SEARCH_HISTORY_KEY = 'videoSearchHistory';
 const MAX_HISTORY_ITEMS = 5;
